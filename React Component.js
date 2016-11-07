@@ -1,7 +1,4 @@
 import React from 'react';
-import './tourdetail.scss';
-import 'bootstrap-grid-only/bootstrap.css';
-import FontIcon from 'material-ui/FontIcon';
 
 class ${NAME} extends React.Component {
 
